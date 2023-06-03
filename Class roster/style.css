@@ -1,0 +1,16 @@
+body {
+    background-color:purple;
+}
+
+th{
+    background-color:darkgrey;
+}
+
+table, th td {
+    border: 1px soild pink; 
+}
+
+#ReaReaHuff{
+    background-color: orange;
+}
+
